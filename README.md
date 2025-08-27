@@ -50,9 +50,6 @@ python gravitysimulation.py
 
 The simulation uses kinematic equations of motion under constant acceleration, with gravity adjustable in real time. When the ball hits the ground or a wall, it bounces with reduced energy (elasticity), and statistics are updated live. The user can interactively set the ball’s velocity, change gravity, and observe the effects instantly.
 
-## Screenshots
-
-*(To add: Run the simulation and capture screenshots of the main interface, drag-to-set velocity, and stats panel)*
 
 ## Requirements
 
